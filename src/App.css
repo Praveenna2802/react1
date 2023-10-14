@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  margin-left: 40px;
+  margin-right: 40px;
+  
+}
+
+textarea {
+  width: 50%;
+  padding: 10px;
+  font-size: 16px;
+}
+
+p {
+  font-weight: bold;
+}
